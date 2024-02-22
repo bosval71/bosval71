@@ -5,12 +5,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-# https://tea.xyz/what-is-this-file
----
-version: 1.0.0
-codeOwners:
-  - '0xBd5aEaa4BcF1445744e8f85FD15DE9bBA5d16E4b'
-quorum: 1
 
 <!---
 bosval71/bosval71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
