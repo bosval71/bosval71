@@ -1,3 +1,6 @@
+🪿
+
+
 <h1 align="center">Hi there, I'm MIRACLE69 👋</h1>
 
 <p align="center">
